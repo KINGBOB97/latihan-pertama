@@ -7,3 +7,4 @@ belajar java script
 belajar vue 
 phyton
 belajar php
+belajar react js
