@@ -1,2 +1,3 @@
 belajar pertama mengenal dunia coding
 membuat website secara mandiri
+bercita-cita menjadi frond-end dev
