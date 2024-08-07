@@ -4,4 +4,6 @@ belajar css
 belajar java script 
  *es6
  *jscript
+belajar vue 
+phyton
 belajar php
