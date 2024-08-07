@@ -1,4 +1,6 @@
 rencana konten
 belajar html
 belajar css
-belajar java script
+belajar java script 
+ *es6
+ *jscript
